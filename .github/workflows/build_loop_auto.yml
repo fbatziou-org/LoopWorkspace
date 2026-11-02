@@ -248,6 +248,7 @@ jobs:
           meal_week \
           profiles \
           basal_lock \
+          remote_carb_edit \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
